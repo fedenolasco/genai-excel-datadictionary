@@ -1,7 +1,7 @@
 # genai-excel-datadictionary
 
 ## Purpose
-This Excel template is used to simulate to autogeneration of data dictionary descriptions.
+This Excel template is used to simulate the autogeneration of data dictionary descriptions. It uses the dataset physical metadata as well as some "explicit context" to steer the LLM to provide context-specific descriptions.
 
 ## Article Sources
 The original article was first published on my blog:
